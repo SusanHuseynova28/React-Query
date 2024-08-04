@@ -1,0 +1,70 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-1.webp",
+      "title": "Software Engineer",
+      "postedDate": "03 Aug 2024",
+      "candidates": 12,
+      "experience": "No experience",
+      "type": "Full-time",
+      "salary": "Negotiable",
+      "position": "CEO"
+    },
+    {
+      "id": 2,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-2.webp",
+      "title": "Marketing Manager",
+      "postedDate": "02 Aug 2024",
+      "candidates": 12,
+      "experience": "1 year exp",
+      "type": "Part-time",
+      "salary": "Negotiable",
+      "position": "CTO"
+    },
+    {
+      "id": 3,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-3.webp",
+      "title": "Data Scientist",
+      "postedDate": "01 Aug 2024",
+      "candidates": 12,
+      "experience": "2 year exp",
+      "type": "On demand",
+      "salary": "Negotiable",
+      "position": "Project Coordinator"
+    },
+    {
+      "id": 4,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-4.webp",
+      "title": "Graphic Designer",
+      "postedDate": "31 Jul 2024",
+      "candidates": 12,
+      "experience": "> 3 year exp",
+      "type": "Part-time",
+      "salary": "$85.21",
+      "position": "Team Leader"
+    },
+    {
+      "id": 5,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-5.webp",
+      "title": "Financial Analyst",
+      "postedDate": "30 Jul 2024",
+      "candidates": 12,
+      "experience": "1 year exp",
+      "type": "On demand",
+      "salary": "$52.17",
+      "position": "Software Developer"
+    },
+    {
+      "id": 6,
+      "companyLogo": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/company/company-6.webp",
+      "title": "Human Resources Specialist",
+      "postedDate": "29 Jul 2024",
+      "candidates": 12,
+      "experience": "1 year exp",
+      "type": "Part-time",
+      "salary": "Negotiable",
+      "position": "Marketing Strategist"
+    }
+  ]
+}
